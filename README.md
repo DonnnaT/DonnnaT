@@ -1,7 +1,4 @@
-### Hi there 👩🏼‍💻👩😎👋
-
-I'm **Donna**, a Front-end Developer before, now becoming a Fullstack developer.
-
+### Hi there 👩‍💻👩😎, I'm Donna.👋 
 ---
 ### What I used and learning to use
 
@@ -21,5 +18,5 @@ I'm **Donna**, a Front-end Developer before, now becoming a Fullstack developer.
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
 
 ---
-### What I do
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonnnaT&show_icons=true)
+### Github stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonnnaT&show_icons=true&hide_title=true&hide=stars,issues,contribs)
